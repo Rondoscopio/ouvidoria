@@ -20,7 +20,7 @@ A Ouvidoria pretende ser o canal de diálogo entre a sociedade e o Rondoscópio 
 
 O sistema deverá permitir registrar manifestações e acompanhar seu tratamento, com histórico das providências, responsáveis autorizados, alterações de estado e encaminhamentos cabíveis. Os relatos serão avaliados conforme sua natureza, relevância e documentação disponível, sem transformar alegações em fatos comprovados.
 
-Quando uma manifestação indicar possível irregularidade, ela poderá subsidiar o trabalho do [Observador](https://github.com/Rondoscopio/observador) e do [Auditor](https://github.com/Rondoscopio/auditor), respeitados os critérios de acesso e as verificações necessárias. O encaminhamento a instituições competentes dependerá da análise do caso, das obrigações legais e dos riscos envolvidos.
+Quando uma manifestação indicar possível irregularidade, ela poderá subsidiar o trabalho do [Observador](https://github.com/Rondoscopio/observador) e do [Córtex](https://github.com/Rondoscopio/cortex), respeitados os critérios de acesso e as verificações necessárias. O encaminhamento a instituições competentes dependerá da análise do caso, das obrigações legais e dos riscos envolvidos.
 
 ## Proteção do manifestante
 
